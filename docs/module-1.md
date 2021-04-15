@@ -1,6 +1,6 @@
 ![SFU Burnaby](assets/images/10610701655_c57e2dc536_o.jpg ':class=banner-image')
 
-## What is usability and user experience design?
+## How usability and user experience made?
 
 ### Summaries and Questions  
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
