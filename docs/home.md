@@ -1,4 +1,4 @@
-# CPT-363 User Interface Design
+# CMPT-363-TK User Interface Design
 
 > ## What’s Happening This Week
 > ### Important Reminders
